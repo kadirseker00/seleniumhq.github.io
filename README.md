@@ -2,7 +2,7 @@
 
 <a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="200" alt="Selenium"/></a>
 
-# Selenium Sites ve Dökümantasyonu
+# Selenium Websitesi ve Dökümantasyonu
 
 This is the repository used to build and publish the official Selenium [website](https://selenium.dev).
 
